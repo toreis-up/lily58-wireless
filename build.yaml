@@ -19,11 +19,11 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: seeeduino_xiao_ble
     shield: tsungyu_lily58_left nice_view
     snippet: studio-rpc-usb-uart
-  - board: nice_nano_v2
+  - board: seeeduino_xiao_ble
     shield: tsungyu_lily58_right nice_view
 
-  - board: nice_nano_v2
+  - board: seeeduino_xiao_ble
     shield: settings_reset
